@@ -7,7 +7,7 @@
 Check out the projects that I've done to know more about me! 
 
 ### Stacks
-**Frameworks:** React, React Native, Expo
+**Frameworks:** React, React Native, Expo  
 **Languages:** Javascript, Typescript
 
 <!--
