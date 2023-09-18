@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋 
+
+💻 📱 Software Engineer (Front-end) specializing in React and React Native
+📍 Kuala Lumpur, Malaysia
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amirul-asyraf-k-b013ba192/)
+
+Check out the projects that I've done to know more about me! 
+
+### Stacks
+**Frameworks:** React, React Native, Expo
+**Languages:** Javascript, Typescript
 
 <!--
 **Amirul-Asyraf/Amirul-Asyraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
